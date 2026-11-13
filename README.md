@@ -126,8 +126,6 @@ python scripts/main.py
 
 Le répertoire courant doit rester le dossier racine du projet, car le programme charge les images, les polices et les sons avec des chemins relatifs tels que `images/`, `font/` et `sounds/`.
 
-Aucun fichier `requirements.txt` n'est fourni dans l'archive.
-
 ## Commandes du jeu
 
 | Commande | Action |
